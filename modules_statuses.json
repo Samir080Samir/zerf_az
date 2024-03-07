@@ -1,0 +1,15 @@
+{
+    "Core": true,
+    "Role": true,
+    "User": true,
+    "Translate": true,
+    "Category": true,
+    "Ad": true,
+    "City": true,
+    "Report": true,
+    "Filter": true,
+    "Shop": true,
+    "Guest": true,
+    "Payment": true,
+    "Adversity": true
+}
